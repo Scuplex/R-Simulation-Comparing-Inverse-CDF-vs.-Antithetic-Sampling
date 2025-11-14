@@ -41,6 +41,11 @@ You need to have **R** installed on your system to run the analysis.
     ```bash
     Rscript Inverse_Antithetic.R
     ```
+### Visual Validation
+
+A composite plot showing the generated histograms (empirical data) with the theoretical PDF (red line) overlaid for all six distributions:
+
+![Composite Plot of Inverse CDF Samples with PDF Overlay](inverse.png)
 
 ### Dependencies
 
